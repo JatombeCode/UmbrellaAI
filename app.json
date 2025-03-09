@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "scheme": "umbrellaai",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "UmbrellaAI",
+    "slug": "UmbrellaAI",
+    "newArchEnabled": true
+  }
+}

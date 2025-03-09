@@ -1,0 +1,12 @@
+---
+description: This is the project's tech stack
+globs: 
+alwaysApply: false
+---
+
+#Technical Stack
+
+- Frontend: Reach Native with TypeScript, Expo and Expo Router
+- Backend / Database: Supabase
+- UI Framework: React native Paper
+- AI Processing: DeepSeek
